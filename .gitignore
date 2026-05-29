@@ -1,0 +1,8 @@
+venv/
+__pycache__/
+*.pyc
+val2017/
+annotations/
+*.zip
+yolov8n.pt
+result.jpg
