@@ -6,7 +6,7 @@ can be trusted for human review decisions in safety-critical
 detection systems.
 
 ## Core Question
-When an AI says it's confident — should we trust it?
+When an AI says it's confident - should we trust it?
 
 ## Key Findings
 - YOLOv8n ECE of 0.1271 — model is systematically underconfident
